@@ -1,6 +1,6 @@
 {
   "domain": "sma",
-  "name": "SMA Solar",
+  "name": "SMA Solar (Custom)",
   "codeowners": ["@kellerza", "@rklomp", "@erwindouna", "@tdeboutte"],
   "config_flow": true,
   "dhcp": [
