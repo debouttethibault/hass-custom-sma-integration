@@ -1,5 +1,5 @@
 {
-  "domain": "sma",
+  "domain": "sma_custom",
   "name": "SMA Solar (Custom)",
   "codeowners": ["@kellerza", "@rklomp", "@erwindouna", "@tdeboutte"],
   "config_flow": true,
